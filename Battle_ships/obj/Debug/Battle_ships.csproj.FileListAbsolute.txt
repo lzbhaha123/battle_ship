@@ -1,0 +1,8 @@
+C:\Users\lzban\Development\Battle_ships\Battle_ships\bin\Debug\Battle_ships.exe.config
+C:\Users\lzban\Development\Battle_ships\Battle_ships\bin\Debug\Battle_ships.exe
+C:\Users\lzban\Development\Battle_ships\Battle_ships\bin\Debug\Battle_ships.pdb
+C:\Users\lzban\Development\Battle_ships\Battle_ships\obj\Debug\Battle_ships.csproj.AssemblyReference.cache
+C:\Users\lzban\Development\Battle_ships\Battle_ships\obj\Debug\Battle_ships.csproj.SuggestedBindingRedirects.cache
+C:\Users\lzban\Development\Battle_ships\Battle_ships\obj\Debug\Battle_ships.csproj.CoreCompileInputs.cache
+C:\Users\lzban\Development\Battle_ships\Battle_ships\obj\Debug\Battle_ships.exe
+C:\Users\lzban\Development\Battle_ships\Battle_ships\obj\Debug\Battle_ships.pdb
